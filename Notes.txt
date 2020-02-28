@@ -1,0 +1,6 @@
+correlation coefficient r - objective way of measuring correlation
+OLS is used to find the best fit line
+Quality of the model can be measured using R2
+R2 - Coefficient of determination
+SSR Sum of square regression
+SSE Sum of square error
